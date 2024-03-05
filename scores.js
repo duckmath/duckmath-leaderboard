@@ -1,1 +1,1 @@
-new Score("Slope" , "test" , 68, "assets/img/icon/slope.webp" , "g4m3s/slope.hmtl").add_new_score();
+new Score("Slope" , "test" , 68, "assets/img/icons/slope.webp" , "g4m3s/slope.html").add_new_score();
