@@ -4,6 +4,6 @@ new Score("Binding Of Isaac" , "RainbowPC" , 156, "assets/img/icons/isaac.webp" 
 
 new Score("Subway Surfers" , "Ethan" , 1508, "assets/img/icons/subway.webp" , "g4m3s/subway_surfers.html").add_new_score();
 
-new Score("Drift Boss" , "Devin" , 3365, "driftboss.webp" , "g4m3s/driftboss.hmtl").add_new_score();
+new Score("Drift Boss" , "Devin" , 3365, "assets/img/icons/driftboss.webp" , "g4m3s/driftboss.hmtl").add_new_score();
 
 
