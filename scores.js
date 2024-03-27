@@ -2,4 +2,8 @@ new Score("Slope" , "Maddox" , 68, "assets/img/icons/slope.webp" , "g4m3s/slope.
 
 new Score("Binding Of Isaac" , "RainbowPC" , 156, "assets/img/icons/isaac.webp" , "g4m3s/flash-g4m3s/thebindingofisaac.html").add_new_score();
 
+new Score("Subway Surfers" , "Ethan" , 1508, "assets/img/icons/subway.webp" , "g4m3s/subway_surfers.html").add_new_score();
+
+new Score("Drift Boss" , "Devin" , 3365, "driftboss.webp" , "g4m3s/driftboss.hmtl").add_new_score();
+
 
